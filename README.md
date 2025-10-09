@@ -63,7 +63,6 @@ A secure notes app with authentication and Prisma-backed storage.
 
 ### 🏆 Trophies & Streaks
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Farrukh-Dev2024&theme=radical&margin-w=15)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Farrukh-Dev2024)
 
 ---
 
