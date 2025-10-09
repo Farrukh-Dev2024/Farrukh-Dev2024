@@ -56,14 +56,14 @@ A secure notes app with authentication and Prisma-backed storage.
 
 ### 📊 GitHub Stats
 
-![Farrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Farrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrukh-Dev2024&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrukh-Dev2024&layout=compact&theme=radical)
 
 ---
 
 ### 🏆 Trophies & Streaks
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Farrukh-Dev2024&theme=radical&margin-w=15)
+![GitHub Streak](https://streak-stats.demolab.com?user=Farrukh-Dev2024&theme=radical&border_radius=5)
 
 ---
 
@@ -77,8 +77,8 @@ A secure notes app with authentication and Prisma-backed storage.
 
 ### 📫 Connect With Me
 - 🌐 [Portfolio](https://farrukh.consologist.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- ✉️ Email: **youremail@example.com**
+- 💼 [LinkedIn]([https://www.linkedin.com/in/farrukh-aleem-78113a336/])
+- ✉️ Email: **farrukhaleem.dev2024@gmail.com**
 
 ---
 
