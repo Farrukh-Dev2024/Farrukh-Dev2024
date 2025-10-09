@@ -77,7 +77,7 @@ A secure notes app with authentication and Prisma-backed storage.
 
 ### 📫 Connect With Me
 - 🌐 [Portfolio](https://farrukh.consologist.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/farrukh-aleem-78113a336/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/farrukh-aleem-78113a336/)
 - ✉️ Email: **farrukhaleem.dev2024@gmail.com**
 
 ---
