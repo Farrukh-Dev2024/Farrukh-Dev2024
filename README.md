@@ -20,7 +20,7 @@ I have built various projects some of my projects are listed below.
 #### 🧾 [Farrukh-Books (in progress)](https://farrukh-books.vercel.app/)
 A double-entry accounting app with role-based access control.  
 Built using **Next.js 15**, **Prisma**, and **PostgreSQL**.  
-A full blown accounting system.
+A full-blown accounting system.
  -journal entries.
  - ledgers.
  - account balances.
