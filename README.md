@@ -49,8 +49,6 @@ A visually engaging gym business website designed using Tailwind CSS and React.
 #### ✅ [To-Do List](https://todolist-murex-six.vercel.app/)
 A simple and clean React to-do list app for managing daily tasks.
 
-#### 🔒 [Protected Notes](https://protected-notes.vercel.app/)
-A secure notes app with authentication and Prisma-backed storage.
 
 ---
 
