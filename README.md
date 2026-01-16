@@ -17,7 +17,7 @@ I have built various projects some of my projects are listed below.
 
 ### 🧩 Featured Projects
 
-#### 🧾 [Farrukh-Books (in progress)](https://farrukh-books.vercel.app/)
+#### 🧾 [Farrukh-Books (in progress)](https://farrukhbooks.com)
 A double-entry accounting app with role-based access control.  
 Built using **Next.js 15**, **Prisma**, and **PostgreSQL**.  
 A full-blown accounting system.
