@@ -52,18 +52,6 @@ A simple and clean React to-do list app for managing daily tasks.
 
 ---
 
-### 📊 GitHub Stats
-
-![Farrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farrukh-Dev2024&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrukh-Dev2024&layout=compact&theme=radical)
-
----
-
-### 🏆 Trophies & Streaks
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Farrukh-Dev2024&theme=radical&margin-w=15)
-
----
-
 ### 🧠 A Bit About Me
 - 🧩 I love solving complex problems and building clean, scalable systems.  
 - 🧠 Always learning new technologies and improving architecture patterns.  
