@@ -1,4 +1,4 @@
-# Hi there, I'm Farrukh 👋
+# Hi there, I'm Farrukh 
 
 🚀 **Full Stack Engineer | Next.js | TypeScript | Prisma | AWS**
 
@@ -30,7 +30,7 @@ A full-blown accounting system.
  - Balance Sheets.
  - Many other reporting features.
  - 
-#### 🧾 [Snake3d](https://snake3d-game.vercel.app/snake3d.html)
+#### 🐍 [Snake3d](https://snake3d-game.vercel.app/snake3d.html)
 A modern 3D Snake game built with HTML5 and WebGL.
 The game runs entirely in the browser and features smooth graphics, multiple maps, difficulty modes, mobile controls, and dynamic camera movement.
 
