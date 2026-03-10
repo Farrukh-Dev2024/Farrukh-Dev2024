@@ -29,6 +29,12 @@ A full-blown accounting system.
  - Income Statements.
  - Balance Sheets.
  - Many other reporting features.
+ - 
+#### 🧾 [Snake3d](https://snake3d-game.vercel.app/snake3d.html)
+A modern 3D Snake game built with HTML5 and WebGL.
+The game runs entirely in the browser and features smooth graphics, multiple maps, difficulty modes, mobile controls, and dynamic camera movement.
+
+This project demonstrates how classic arcade games can be reimagined using modern web technologies.
 
 #### 🔒 [Protected Notes](https://protected-notes.vercel.app/)
 A secure notes app with authentication and Prisma-backed storage.
